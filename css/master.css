@@ -1,0 +1,40 @@
+@import url("./styles/color.css");
+@import url("./styles/font.css");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  padding: 2rem 1.5rem;
+  color: var(--shark-950);
+}
+
+.profile {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}

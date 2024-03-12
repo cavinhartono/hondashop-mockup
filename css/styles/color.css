@@ -1,0 +1,40 @@
+:root {
+  --shark-50: #f6f6f6;
+  --shark-100: #e7e7e7;
+  --shark-200: #d1d1d1;
+  --shark-300: #b0b0b0;
+  --shark-400: #888888;
+  --shark-500: #6d6d6d;
+  --shark-600: #5d5d5d;
+  --shark-700: #4f4f4f;
+  --shark-800: #454545;
+  --shark-900: #3d3d3d;
+  --shark-950: #222222;
+  --seashell-50: #f8f8f8;
+  --seashell-100: #f0f0f0;
+  --seashell-200: #dcdcdc;
+  --seashell-300: #bdbdbd;
+  --seashell-400: #989898;
+  --seashell-500: #7c7c7c;
+  --seashell-600: #656565;
+  --seashell-700: #525252;
+  --seashell-800: #464646;
+  --seashell-900: #3d3d3d;
+  --seashell-950: #292929;
+  --alizarin-crimson-50: #fff1f3;
+  --alizarin-crimson-100: #ffe0e4;
+  --alizarin-crimson-200: #ffc7ce;
+  --alizarin-crimson-300: #ffa0ab;
+  --alizarin-crimson-400: #ff6a7c;
+  --alizarin-crimson-500: #f83b51;
+  --alizarin-crimson-600: #e61b33;
+  --alizarin-crimson-700: #c21328;
+  --alizarin-crimson-800: #a01425;
+  --alizarin-crimson-900: #841825;
+  --alizarin-crimson-950: #48070f;
+}
+
+.btn-primary-rounded-full {
+  background: var(--seashell-200);
+  border-radius: 100%;
+}
