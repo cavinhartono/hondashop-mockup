@@ -34,7 +34,12 @@
   --alizarin-crimson-950: #48070f;
 }
 
-.btn-primary-rounded-full {
+.btn-icon {
+  display: flex;
+  align-items: center;
   background: var(--seashell-200);
+  color: var(--shark-950);
   border-radius: 100%;
+  font-size: 1.5rem;
+  padding: 8px;
 }
